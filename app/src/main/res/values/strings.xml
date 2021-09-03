@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework1</string>
+    <string name="textview">Login Page</string>
+    <string name="name">Username</string>
+    <string name="button">Log In</string>
+    <string name="postView" />
+</resources>
